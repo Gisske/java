@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "graphic_list",
+            "request": "launch",
+            "mainClass": "graphic_list",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "graphic_passField",
+            "request": "launch",
+            "mainClass": "graphic_passField",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "grade_passFire",
+            "request": "launch",
+            "mainClass": "grade_passFire",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JavaSumValue_Nattapon",
+            "request": "launch",
+            "mainClass": "JavaSumValue_Nattapon",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "StringArray",
+            "request": "launch",
+            "mainClass": "StringArray",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basicLoop5",
+            "request": "launch",
+            "mainClass": "basicLoop5",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_Loop02",
+            "request": "launch",
+            "mainClass": "basic_Loop02",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_Loop03",
+            "request": "launch",
+            "mainClass": "basic_Loop03",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_Loop04",
+            "request": "launch",
+            "mainClass": "basic_Loop04",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_array01",
+            "request": "launch",
+            "mainClass": "basic_array01",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_array02",
+            "request": "launch",
+            "mainClass": "basic_array02",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_array03",
+            "request": "launch",
+            "mainClass": "basic_array03",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_array04",
+            "request": "launch",
+            "mainClass": "basic_array04",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_evalutionFarm",
+            "request": "launch",
+            "mainClass": "basic_evalutionFarm",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "basic_string",
+            "request": "launch",
+            "mainClass": "basic_string",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "chater_forLoop",
+            "request": "launch",
+            "mainClass": "chater_forLoop",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "chater_whileLoop",
+            "request": "launch",
+            "mainClass": "chater_whileLoop",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "grade_calculate_V4",
+            "request": "launch",
+            "mainClass": "grade_calculate_V4",
+            "projectName": "codetest_7cecc2a5"
+        },
+        {
+            "type": "java",
+            "name": "opp_rectangle",
+            "request": "launch",
+            "mainClass": "opp_rectangle",
+            "projectName": "codetest_7cecc2a5"
+        }
+    ]
+}
